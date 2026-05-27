@@ -1,0 +1,10 @@
+{
+  "temperature": 16.5,
+  "windspeed": 3.3,
+  "weather_code": 1,
+  "latitude": 47.0105,
+  "longitude": 28.8638,
+  "timestamp": "2026-05-27T02:17:42.115971",
+  "is_hot": false,
+  "wind_level": "low"
+}
